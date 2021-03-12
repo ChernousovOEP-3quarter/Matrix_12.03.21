@@ -1,4 +1,5 @@
-//Chernousov Nikita. PMI_RKS_20
+// Chernousov Nikita. PMI_RKS_20
+// Bez deleniya
 
 import java.util.Scanner;
 
